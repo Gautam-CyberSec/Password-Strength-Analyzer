@@ -12,6 +12,8 @@ A password is considered **strong** if it meets the following criteria:
 4.  Contains at least one digit (0-9)  
 5.  Contains at least one special character (e.g., !@#$%^&*)
 
+<img width="719" height="372" alt="Image" src="https://github.com/Gautam-CyberSec/Password-Strength-Analyzer/blob/main/Screenshots/Screenshot%202025-09-24%20194403.png" />
+
 ### LOGIC USED IN CODE
 
 Python functions and checks implemented:
